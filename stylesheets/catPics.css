@@ -1,0 +1,15 @@
+#wrapper {
+    background-color: blue;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+#wrapper h1 {
+    text-align: center;
+}
+
+.cat1, .cat2, .cat3 {
+    width: 25%;
+    display: block;
+    margin: 0 auto;
+}

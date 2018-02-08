@@ -1,0 +1,15 @@
+#wrapper {
+    background-color: red;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+#wrapper h1 {
+    text-align: center;
+}
+
+.car1, .car2, .car3 {
+    width: 20%;
+    display: block;
+    margin: 0 auto;
+}
